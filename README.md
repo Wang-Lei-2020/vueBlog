@@ -9,4 +9,4 @@ web前端开发 SPA博客
 2.	如要想查看MongoDB数据库中的内容，需要另外开启一个cmd窗口，进入到/MongoDB/bin位置，输入命令mongo localhost：27017进行查看数据库的操作。
 3.	下载nodeJS服务器，cmd中进入项目所在位置，输入命令node app来打开后端服务器，后端监听 3000 端口。
 4.	最后在WebStorm中打开项目，并进行npm配置，最后用npm运行项目。
-5.	在浏览器中输入http://localhost:8080/即可访问。
+5.	在浏览器中输入http://localhost:8080/ 即可访问。
